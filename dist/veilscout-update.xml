@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>VeilScout</title>
+    <link>https://raw.githubusercontent.com/kalcryp/VeilSt/main/dist/veilscout-update.xml</link>
+    <description>Most recent changes with links to updates.</description>
+    <language>en</language>
+    <item>
+      <title>VeilScout 9.3.13</title>
+      <sparkle:version>9.3.13</sparkle:version>
+      <sparkle:shortVersionString>9.3.13</sparkle:shortVersionString>
+      <pubDate>Thu, 06 Aug 2026 04:48:54 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/kalcryp/VeilSt/main/dist/VeilScout-Setup-9.3.13.exe" length="42866268" type="application/octet-stream" sparkle:dsSignature="0OgkZuEEz6WMztKvMEZJ2JQI6m+dQxKbW4QfdF0u1PRgOWVvPAjwtrIcgqA32UAA7CEx09TPKlgJ5oYXy5/bBg==" />
+    </item>
+  </channel>
+</rss>
