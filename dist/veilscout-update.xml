@@ -6,11 +6,11 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
     <item>
-      <title>VeilScout 9.5.3</title>
-      <sparkle:version>9.5.3</sparkle:version>
-      <sparkle:shortVersionString>9.5.3</sparkle:shortVersionString>
-      <pubDate>Fri, 14 Aug 2026 18:37:04 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/kalcryp/VeilSt/main/dist/VeilScout-Setup-9.5.3.exe" length="42899717" type="application/octet-stream" sparkle:dsSignature="AoJs9q+2qo1r30s/VesIlcspjZAPvcZJyAjTB4nJavPM6eD3gvL71aMY+kefgYo5uyCxiWc1Uqfg4Gmf1ELeAA==" />
+      <title>VeilScout 9.5.4</title>
+      <sparkle:version>9.5.4</sparkle:version>
+      <sparkle:shortVersionString>9.5.4</sparkle:shortVersionString>
+      <pubDate>Fri, 14 Aug 2026 19:04:22 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/kalcryp/VeilSt/main/dist/VeilScout-Setup-9.5.4.exe" length="42899499" type="application/octet-stream" sparkle:dsSignature="q6ut1YTe+slUpLCw80byXgfdGZjechiryOV0zNdIFupRYaNE+vgTJRnxKULnJBdbKt3G0Mn8rcms0qPsjp1zBA==" />
     </item>
   </channel>
 </rss>
